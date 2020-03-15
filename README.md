@@ -52,3 +52,6 @@ Marine Mammals - 6 October, 2017 - 19:55 (10 sec period)
 
 Earthquake - 25 April, 2019 - 06:35 (20 sec period)
 > ![f11](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f11.PNG)
+
+Comparing the results is utilized using a Wenz Curve.. 
+> ![WC](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/WC.PNG)
