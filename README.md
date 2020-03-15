@@ -9,19 +9,27 @@ The goal for this project involves obtaining raw data from OOI Broadband hydroph
 Part 1: Four time periods within 2 different node locations
 ### Oregon Shelf Surface Mooring *Cases* 
 Case 1: Rain and Wind (absent): **Early March 2018**
+>
 
 Case 2: No Rain and Wind: **Late December 2018**
+>
 
 Case 3: Rain and no Wind: **Late May 2018**
+>
 
 Case 4: Rain and Wind: **Early to Mid March 2018**
+>
 
 ### Oregon Offshore Mooring *Cases*
 Case 1: Rain and Wind (absent): **Early April 2018**
+>
 
 Case 2: No Rain and Wind: **Late September 2018**
+>
 
 Case 3: Rain and no Wind: **Early September 2018**
+>
 
 Case 4: Rain and Wind: **Early December 2018**
+>
 
