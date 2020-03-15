@@ -34,24 +34,33 @@ Case 4: Rain and Wind: **12 December 2018**
 > ![f8](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f8.PNG)
 
 ### PART 1 - Questions
-a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
+1.1) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
 >> According to my data, case 3, where there is rain and no wind has the highest PSD at lower frequencies regarding Figure 7. However, at the higher frequences for Figure 7, the PSD drops the lowest. This serves to be a trend throughout the pieces; as frequency is low, PSD will be high, while high frequency yields a lower PSD. In Figure 4, which represents both rain and wind being present, the average PSD is the lowest. 
 
-b) Which one has the highest impact? Rain or wind?
+1.2) Which one has the highest impact? Rain or wind?
 >> The highest impact upon PSD compares specifically case 2 and case 3. In these cases, Oregon Shelf has an extremely small difference comparing Figure 2, and Figure 3 where whether wind or rain are absent, the graphs are very similar. Comparing case 2 and case 3 however for Oregon Offshore, rain has a greater effect. Regarding Figure 6 and Figure 7, at lower frequencies, initially, Figure 7 yields a higher PSD. 
 
-c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
+1.3) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 >> As Oregon Shelf is shallow, and closer to the surface, spectral levels are higher for Oregon Shelf then Oregon Offshore. From this, Oregon shelf yields less attenuation losses compared to Oregon Offshore based on different depth and general locations. 
 
-## Part 2: Spectral Data for Airgun, Marine Mammals, and Earthquake 
-Airgun - 1 August, 2019 - 07:45 (30 sec period)
+## PART 2: Spectral Data for Airgun, Marine Mammals, and Earthquake   and Comparison
+Prior spectral data, this Wenz Curve will be utilized in order to properly compare the bandwidths.
+> ![WC](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/WC.png)
+
+**Airgun - 1 August, 2019 - 07:45 (30 sec period)**
 > ![f9](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f9.PNG)
 
-Marine Mammals - 6 October, 2017 - 19:55 (10 sec period)
+**Marine Mammals - 6 October, 2017 - 19:55 (10 sec period)**
 > ![f10](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f10.PNG)
 
-Earthquake - 25 April, 2019 - 06:35 (20 sec period)
+**Earthquake - 25 April, 2019 - 06:35 (20 sec period)**
 > ![f11](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f11.PNG)
 
-Comparing the results is utilized using a Wenz Curve.. 
-> ![WC](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/WC.PNG)
+
+
+
+
+
+
+
+
