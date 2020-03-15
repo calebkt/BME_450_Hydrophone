@@ -6,7 +6,7 @@ Final Project - Hydrophone
 
 The goal for this project involves obtaining raw data from OOI Broadband hydrophone packages from nodes Oregon Shelf, and Offshore. Part 1 analyzes noise levels by plotting frequency (Hz) vs power spectral density (dB) at locations specified as cases for project 2, specifically at timeframes where certain parameters are present. Part 2 analyzes noise levels from Airgun, Marine Mammal, and Earthquake/Volcano noise. Likewise, frequency (Hz) vs power spectral density (dB) are analyzed; as well, a spectogram of Time (s) vs Frequency (Hz) as a color coded heat map. 
 
-Part 1: Four time periods within 2 different node locations
+## Part 1: Four time periods within 2 different node locations
 ### Oregon Shelf Surface Mooring *Cases* 
 Case 1: Rain and Wind (absent): **2 March 2018**
 > ![f1](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f1.PNG)
@@ -43,8 +43,12 @@ b) Which one has the highest impact? Rain or wind?
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
 >> As Oregon Shelf is shallow, and closer to the surface, spectral levels are higher for Oregon Shelf then Oregon Offshore. From this, Oregon shelf yields less attenuation losses compared to Oregon Offshore based on different depth and general locations. 
 
+## Part 2: Spectral Data for Airgun, Marine Mammals, and Earthquake 
+Airgun - 1 August, 2019 - 07:45 (30 sec period)
+> ![f9](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f9.PNG)
 
+Marine Mammals - 6 October, 2017 - 19:55 (10 sec period)
+> ![f10](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f10.PNG)
 
-
-
-
+Earthquake - 25 April, 2019 - 06:35 (20 sec period)
+> ![f11](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f11.PNG)
