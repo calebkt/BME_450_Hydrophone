@@ -8,28 +8,28 @@ The goal for this project involves obtaining raw data from OOI Broadband hydroph
 
 Part 1: Four time periods within 2 different node locations
 ### Oregon Shelf Surface Mooring *Cases* 
-Case 1: Rain and Wind (absent): **Early March 2018**
->
+Case 1: Rain and Wind (absent): **2 March 2018**
+> ![f1](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f1.PNG)
 
 Case 2: No Rain and Wind: **Late December 2018**
->
+> ![f2](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f2.PNG)
 
 Case 3: Rain and no Wind: **Late May 2018**
->
+> ![f3](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f3.PNG)
 
 Case 4: Rain and Wind: **Early to Mid March 2018**
->
+> ![f4](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f4.PNG)
 
 ### Oregon Offshore Mooring *Cases*
 Case 1: Rain and Wind (absent): **Early April 2018**
->
+> ![f5](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f5.PNG)
 
 Case 2: No Rain and Wind: **Late September 2018**
->
+> ![f6](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f6.PNG)
 
 Case 3: Rain and no Wind: **Early September 2018**
->
+> ![f7](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f7.PNG)
 
 Case 4: Rain and Wind: **Early December 2018**
->
+> ![f8](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f8.PNG)
 
