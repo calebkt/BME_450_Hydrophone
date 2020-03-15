@@ -35,13 +35,13 @@ Case 4: Rain and Wind: **12 December 2018**
 
 ### PART 1 - Questions
 a) What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result.
-> According to my data, case 3, where there is rain and no wind has the highest PSD at lower frequencies regarding Figure 7. However, at the higher frequences for Figure 7, the PSD drops the lowest. This serves to be a trend throughout the pieces; as frequency is low, PSD will be high, while high frequency yields a lower PSD. In Figure 4, which represents both rain and wind being present, the average PSD is the lowest. 
+>> According to my data, case 3, where there is rain and no wind has the highest PSD at lower frequencies regarding Figure 7. However, at the higher frequences for Figure 7, the PSD drops the lowest. This serves to be a trend throughout the pieces; as frequency is low, PSD will be high, while high frequency yields a lower PSD. In Figure 4, which represents both rain and wind being present, the average PSD is the lowest. 
 
 b) Which one has the highest impact? Rain or wind?
-> The highest impact upon PSD compares specifically case 2 and case 3. In these cases, Oregon Shelf has an extremely small difference comparing Figure 2, and Figure 3 where whether wind or rain are absent, the graphs are very similar. Comparing case 2 and case 3 however for Oregon Offshore, rain has a greater effect. Regarding Figure 6 and Figure 7, at lower frequencies, initially, Figure 7 yields a higher PSD. 
+>> The highest impact upon PSD compares specifically case 2 and case 3. In these cases, Oregon Shelf has an extremely small difference comparing Figure 2, and Figure 3 where whether wind or rain are absent, the graphs are very similar. Comparing case 2 and case 3 however for Oregon Offshore, rain has a greater effect. Regarding Figure 6 and Figure 7, at lower frequencies, initially, Figure 7 yields a higher PSD. 
 
 c) What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore?
-> As Oregon Shelf is shallow, and closer to the surface, spectral levels are higher for Oregon Shelf then Oregon Offshore. From this, Oregon shelf yields less attenuation losses compared to Oregon Offshore based on different depth and general locations. 
+>> As Oregon Shelf is shallow, and closer to the surface, spectral levels are higher for Oregon Shelf then Oregon Offshore. From this, Oregon shelf yields less attenuation losses compared to Oregon Offshore based on different depth and general locations. 
 
 
 
