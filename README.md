@@ -49,12 +49,15 @@ Prior spectral data, this Wenz Curve will be utilized in order to properly compa
 
 **Airgun - 1 August, 2019 - 07:45 (30 sec period)**
 > ![f9](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f9.PNG)
+Airgun spectral data ranges from 0 to 2500 Hz. Looking very closely, the second signal at 24 seconds expresses this. According to the Wenz Curve, ship and industrial activity ranges from 10 to 10,000 Hz making this case consistent. Lower frequencies are utilized in order not to interfere with marine life, as well as ship based navigation.
 
 **Marine Mammals - 6 October, 2017 - 19:55 (10 sec period)**
 > ![f10](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f10.PNG)
+Expressed here, marine mammal vocalizations range from 500 to 4500 Hz. According to the Wenz Curve, biologics range from 8 to 100,000+ H; an enormous range. This satisfies this condition appropriately; according to seaworld.org, humpback whales, have vocalization frequencies ranging from 20 to 8000 Hz which satisfies this condition. 
 
 **Earthquake - 25 April, 2019 - 06:35 (20 sec period)**
 > ![f11](https://github.com/calebkt/BME_450_Hydrophone/blob/master/Hydrophone_images/f11.PNG)
+According to Figure 11, earthquake frequency ranges from 0 to 36 Hz. This will satisfy the conditions expressed by the Wenz Curve; as earthquakes and explosions range from 0 to 100 Hz. Likewise, comparing spectral levels, yellow yields 120 (dB) which matches the Wenz Curve's spectral level at a frequency of 5 for the blue dashed line. 
 
 
 
